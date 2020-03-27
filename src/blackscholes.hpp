@@ -5,7 +5,10 @@
 #include <cmath>
 #include <armadillo>
 
-class BlackScholes{
+
+namespace bsc{
+        
+        class BlackScholes{
 
         private:
                 double S_;
@@ -20,6 +23,9 @@ class BlackScholes{
 
         
 };
+
+
+}
 
 
 #endif 
