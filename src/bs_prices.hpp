@@ -1,5 +1,5 @@
-#ifndef __BS_PRICES_H
-#define __BS_PRICES_H
+#ifndef __BS_PRICES_HPP
+#define __BS_PRICES_HPP
 
 #include <iostream>
 #include <cmath>
